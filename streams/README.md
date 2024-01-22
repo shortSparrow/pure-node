@@ -1,0 +1,1 @@
+Run index.js script to create fat_file.txt
